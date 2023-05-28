@@ -6,7 +6,7 @@
 
 <p>Мы разработали веб-сервис для контроля за медицинскими назначениями на диагностику заболеваний</p>
 
-<h2> :floppy_disk: Project Files Description</h2>
+<h2> :floppy_disk: Описание файлов проекта</h2>
 
 <p>This Project includes 3 executable files, 3 text files as well as 2 directories as follows:</p>
 <h4>Executable Files:</h4>
