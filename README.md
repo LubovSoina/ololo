@@ -31,24 +31,11 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :dashboard: Naive Bayes</h2>
 
-<p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
-Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
-<img src="image/1.png" alt="Formula 1" style="max-width:100%;"></p>
 
-<p>representing some n features (independent variables), it assigns to this instance probabilities
-<img src="image/2.png" alt="Formula 2" style="max-width:100%;"></p>
-
-<p>The problem with the above formulation is that if the number of features n is large or if a feature can take on a large number of values, then basing such a model on probability tables is infeasible. We therefore reformulate the model to make it more tractable. Using Bayes' theorem, the conditional probability can be decomposed as
-<img src="image/3.png" alt="Formula 3" style="max-width:100%;"></p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the program files is as follows:</p>
-<p><b>1) spam_detector.py</b></p>
-<p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
+<h2> :clipboard: Инструкция по использованию</h2>
+<p>Порядок выполнения действий:</p>
+<p>1) Зайьти на главную страницу.</p>
 <p><b>2) train.py</b></p>
 <p>Then, the train.py file must be executed, which leads to the production of the model.txt file. 
 At the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
