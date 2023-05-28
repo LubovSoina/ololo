@@ -69,10 +69,15 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
 Оленин Андрей
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/illsurvive)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ma_shamshiri)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-shamshiri)
+
+Соина Любовь
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/ChineseCat)
+
